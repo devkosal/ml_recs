@@ -6,7 +6,7 @@ The basic ingridients to success in ML:
 - Calculus 
 - Linear Algebra
 
-Below are some books, mini series and full courses which I found helpful in my ML learning journey. I hope you find these as helpful as I did!
+Below are some books, mini series and full courses which I found helpful in my ML learning journey. I hope you find these as helpful as I did! 
 
 
 ## Books
@@ -41,6 +41,9 @@ Below are some books, mini series and full courses which I found helpful in my M
 - Fast Ai - A Code-First Introduction to NLP [course_link](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - Stanford CS 224N - NLP with Deep Learning [course_link](http://web.stanford.edu/class/cs224n/), [videos_link](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   - pro: covers almost all relevant topics in NLP, of which there are many in Deep Learning!
+
+
+One thing to note is that within the stanford courses, there are excellent reading resouces for all topics. 
 
 # Notes
 
