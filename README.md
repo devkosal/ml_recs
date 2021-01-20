@@ -11,7 +11,7 @@ Below are some books, mini series and full courses which I found helpful in my M
 
 ## Books
 
-- Introduction to Probability, Statistics and Random Processes [book_link](https://www.probabilitycourse.com/) **#Probability**
+- Introduction to Probability, Statistics and Random Processes [book_link](https://www.probabilitycourse.com/)
 
 ## Miniseries (videos)
 
