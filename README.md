@@ -6,7 +6,7 @@ The basic ingridients to success in ML:
 - Calculus 
 - Linear Algebra
 
-Below are some books, mini series and full courses which I found helpful in the ML learning journey. 
+Below are some books, mini series and full courses which I found helpful in my ML learning journey. I hope you find it as helpful as I did!
 
 
 ## Books
