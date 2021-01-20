@@ -38,7 +38,7 @@ Below are some books, mini series and full courses which I found helpful in my M
 
 ### NLP Courses
 
-- Fast Ai - NLP
+- Fast Ai - A Code-First Introduction to NLP [course_link](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - Stanford CS 224N - NLP with Deep Learning [resources_link](http://web.stanford.edu/class/cs224n/), [videos_link](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   - pro: covers almost all relevant topics in NLP, of which there are many in Deep Learning!
 
