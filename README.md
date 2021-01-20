@@ -30,7 +30,7 @@ Below are some books, mini series and full courses which I found helpful in my M
   - con (or a pro if beginner): bit light on the math notation requiered to parse research papers
   - great if coming from a mostly engineering background
 
-- Stanford CS 229 - Machine Learning [resources_link](http://cs229.stanford.edu/), [videos_link](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- Stanford CS 229 - Machine Learning [course_link](http://cs229.stanford.edu/), [videos_link](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
   - bottom-up learning
   - lot of theory
   - pro: familiarizes with the math notation required for understanding papers
@@ -39,6 +39,6 @@ Below are some books, mini series and full courses which I found helpful in my M
 ### NLP Courses
 
 - Fast Ai - A Code-First Introduction to NLP [course_link](https://www.fast.ai/2019/07/08/fastai-nlp/)
-- Stanford CS 224N - NLP with Deep Learning [resources_link](http://web.stanford.edu/class/cs224n/), [videos_link](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+- Stanford CS 224N - NLP with Deep Learning [course_link](http://web.stanford.edu/class/cs224n/), [videos_link](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
   - pro: covers almost all relevant topics in NLP, of which there are many in Deep Learning!
 
