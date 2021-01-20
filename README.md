@@ -1,6 +1,6 @@
 # ML/DL/NLP resources recommendations
 
-The basic ingridients to success in ML:
+The basic ingredients to success in ML:
 
 - Probability and Statistics 
 - Calculus 
