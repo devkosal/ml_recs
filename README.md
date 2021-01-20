@@ -5,6 +5,7 @@ The basic ingridients to success in ML:
 - Probability and Statistics 
 - Calculus 
 - Linear Algebra
+- Programming
 
 Below are some books, mini series and full courses which I found helpful in my ML learning journey. I hope you find these as helpful as I did! 
 
