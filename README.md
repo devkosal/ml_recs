@@ -43,7 +43,7 @@ Below are some books, mini series and full courses which I found helpful in my M
   - pro: covers almost all relevant topics in NLP, of which there are many in Deep Learning!
 
 
-One thing to note is that within the stanford courses, there are excellent reading resouces for all topics. 
+One thing to note is that within the Stanford courses, there are excellent reading resouces for all topics. 
 
 # Notes
 
