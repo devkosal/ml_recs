@@ -27,7 +27,7 @@ Below are some books, mini series and full courses which I found helpful in my M
 - Fast Ai - Practical Deep Learning for Coders [course_link](http://fast.ai/)
   - top-down learning
   - pro: very practical lessons
-  - con (or a pro?): bit light on the math notation requiered to parse research papers
+  - con (or a pro if beginner): bit light on the math notation requiered to parse research papers
   - great if coming from a mostly engineering background
 
 - Stanford CS 229 - Machine Learning [resources_link](http://cs229.stanford.edu/), [videos_link](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
